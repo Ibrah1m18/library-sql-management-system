@@ -229,27 +229,9 @@ This project demonstrates strong foundational SQL skills across schema design, d
 
 ---
 
-## 🔍 How to Use
+## Author
 
-1. **Clone the Repository**:
-
-```sh
-git clone https://github.com/najirh/Library-System-Management---P2.git
-```
-
-2. **Set Up the Database**: Run the SQL scripts in `scripts/` folder to initialize the schema.
-3. **Explore Queries**: Execute analysis queries manually or adapt them to your own dataset.
-
----
-
-## 👤 Author - Zero Analyst
-
-This project showcases SQL skills essential for database management and analysis.
-
-- [YouTube](https://www.youtube.com/@zero_analyst)
-- [Instagram](https://www.instagram.com/zero_analyst/)
-- [LinkedIn](https://www.linkedin.com/in/najirr)
-- [Discord](https://discord.gg/36h5f2Z5PK)
-
-> ✨ If you liked this project, give it a star and connect with me!
+**Ibrahim Ahmed**  
+Aspiring Data Analyst | SQL | Power BI | Python  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/ibrahim-ahmed-572475143/)
 
