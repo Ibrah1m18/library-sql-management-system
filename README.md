@@ -9,6 +9,7 @@
 - [CTAS Examples](#ctas-examples)
 - [Advanced SQL Tasks](#advanced-sql-tasks)
 - [Reports](#reports)
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Conclusion](#conclusion)
 - [Author](#author---zero-analyst)
 
