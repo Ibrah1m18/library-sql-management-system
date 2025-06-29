@@ -223,7 +223,7 @@ LIMIT 3;
 ---
 
 ### 📊 Power BI Dashboard
-Explore the full dashboard [here](dashboard/library_dashboard.pbix)
+Explore the full dashboard [here](dashboard/library dashboard.pbix)
 
 ---
 
