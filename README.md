@@ -10,7 +10,6 @@
 - [Advanced SQL Tasks](#advanced-sql-tasks)
 - [Reports](#reports)
 - [Conclusion](#conclusion)
-- [How to Use](#how-to-use)
 - [Author](#author---zero-analyst)
 
 ---
@@ -220,6 +219,11 @@ LIMIT 3;
 - Database Schema with ERD
 - Analysis: Issued books, branch revenue, member trends
 - Aggregations: Top books, employee performance, overdue reports
+
+---
+
+### 📊 Power BI Dashboard
+Explore the full dashboard [here](dashboard/library_dashboard.pbix)
 
 ---
 
